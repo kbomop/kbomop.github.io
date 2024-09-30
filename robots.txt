@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kbomop.github.io/NPQ/sitemap.NPQ.gz
